@@ -6,13 +6,17 @@ maxmind_db_ip_geolocator.py [-h] [-u URL] [-t IP] [--dat DATFILE]
 
 ![ipgeolocator](https://github.com/WarriorX55/IPGeolocator/assets/141424663/d40b3d0d-42c3-4bd6-b989-699d4b7eb7cf)
 
+# Install
 Let’s attempt to use our script
 
 ![install](https://github.com/WarriorX55/IPGeolocator/assets/141424663/d965978a-2213-480b-9d5a-75f7f0676397)
 
+# Query 
 We can see that the automatic installation is going through just fine (The database installation may take a minute, as it is quite a lot to download and decompress). Now we just have to wait for the query to complete:
 
 ![query](https://github.com/WarriorX55/IPGeolocator/assets/141424663/f4ed520f-a119-470e-b1f6-16aa98eb105c)
+
+
 
 That does it for this one!
 Now that we have our Locator object, we call the check_database()
