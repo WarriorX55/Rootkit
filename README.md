@@ -4,6 +4,8 @@ Lucky for us that MaxMind offers a developer version of the database for free, a
 # usage
 maxmind_db_ip_geolocator.py [-h] [-u URL] [-t IP] [--dat DATFILE]
 
+![ipgeolocator](https://github.com/WarriorX55/IPGeolocator/assets/141424663/d40b3d0d-42c3-4bd6-b989-699d4b7eb7cf)
+
 # option
   -h, --help          show this help message and exit
   -u URL, --url URL   Locate an IP based on a URL
