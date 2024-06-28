@@ -6,11 +6,8 @@ maxmind_db_ip_geolocator.py [-h] [-u URL] [-t IP] [--dat DATFILE]
 
 ![ipgeolocator](https://github.com/WarriorX55/IPGeolocator/assets/141424663/d40b3d0d-42c3-4bd6-b989-699d4b7eb7cf)
 
-# option
-  -h, --help          show this help message and exit
-  -u URL, --url URL   Locate an IP based on a URL
-  -t IP, --target IP  Locate the specified IP
-  --dat DATFILE       Custom database filepath
 
 That does it for this one!
-
+Now that we have our Locator object, we call the check_database()
+function as a method in order to run it. Once that function is complete, 
+we call the query() function as a method in order to execute our query. 
