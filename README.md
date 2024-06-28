@@ -16,9 +16,9 @@ We can see that the automatic installation is going through just fine (The datab
 
 ![query](https://github.com/WarriorX55/IPGeolocator/assets/141424663/f4ed520f-a119-470e-b1f6-16aa98eb105c)
 
-
-
+# End
 That does it for this one!
 Now that we have our Locator object, we call the check_database()
 function as a method in order to run it. Once that function is complete, 
 we call the query() function as a method in order to execute our query. 
+
