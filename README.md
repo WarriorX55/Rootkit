@@ -8,4 +8,4 @@ $ python3 warriorx55.py or ./warriorx55.py
 
 This Package include some powerfull scripts to execute verious tasks. However some advanced scripts need to executed using both on linux & windows powershell.
 So, feel free to test them and I think I shold put an instructions within each tool soon to have better understanding at how to run them properly. 
-But most of them will work try to play around with them..
+But most of them will work just try to play around with them..
