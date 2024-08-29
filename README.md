@@ -1,4 +1,4 @@
-#Install
+# Install
 $ pip install python3
 $ pip install -r requirements.txt
 $ python3 warriorx55.py or ./warriorx55.py
