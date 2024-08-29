@@ -1,0 +1,29 @@
+[+] License
+
+[!] COPYWRITES (c) 2024 : WarriorX55
+
+Some of you may notice that these scripts within this tool belong to Python
+For Cybersecurity book and that is true, but I try to modify all the scripts
+and decorate them and put them in one single tool. Although, I have to thank 
+Fahad Ali Sarwar the owner of that book it gave me a lot of basic idea of what 
+it takes to build you own unique set of python tools and it begin from the basics
+to creating advanced malware and RAT that stand for Remote Access Tool that allow 
+hackers to get the meterpreter shell of the victim's machine. It explore also the 
+idea behind BOTNET that start often by exploiting the victim computer and use it as
+foothold to access other computers inside the network. finally, He show us how to make
+the malware persistence in order to stay on te victim's machine as long as the system 
+is alive unless you need to execute the malware everytime on the target's machine
+which is not possible because as a hacker often you'll have only one chance to sent 
+some malicious file to the victim and YEAH persistence is the key but that will rise
+suspecious if you keep sending malicious files.
+ 
+However, that book gave me some knowledge to build on that and create more sophisticated
+tools that will be hard for Intrusion Detection System IDS to detect it which is what we
+want but the scripts in this tool it's not that sophisticated some of them are pretty 
+advanced. So, if you know python you can download the tool and add some tweaks to it.
+
+[!] I want to make a plugin here for some beginners if you change the DIRECTORIES NAME
+of these scripts you'll get an ERROR message say "no such a file or directory" which some
+of you may think there's no scripts here! So, let them as they are and it will work just 
+fine and one more thing, as you can see I called my script "warriorx55.py" you can change it
+to your name or any name you want it will not make any difference.

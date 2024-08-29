@@ -1,0 +1,12 @@
+pyinstaller
+termcolor
+pyfiglet
+scapy
+threading
+pynput
+zipfile
+elevate
+shutil
+winreg
+ctypes
+platform
