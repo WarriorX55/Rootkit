@@ -8,4 +8,4 @@ $ python3 warriorx55.py or ./warriorx55.py
 
 This Package include some powerfull scripts to do verious tasks. However some advanced scripts need to executed using both on linux & windows 
 powershell. So, feel free to test them and I think I should put an instruction within each tool soon to have better understanding at how to run 
-them properly. But most of them will work just try to play around with them.
+them properly. But most of them will work just try to play around with them. As you can see I named my script warriorx55.py if you want to put your name or any name happens to be it's totally fine.
